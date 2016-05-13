@@ -1,1 +1,1 @@
-for Tizen Platform
+for Tizen Platform..
